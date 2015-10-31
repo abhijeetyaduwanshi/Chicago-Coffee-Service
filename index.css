@@ -1,0 +1,101 @@
+.imagebox{
+	width: 1000px;
+	height: 300px;
+	background-color: white;
+	border-radius: 10px;
+	margin-top: 10px;
+}
+
+.imagebox .image{
+	width: 980px;
+	height: 280px;
+	background-image: url("images/9.jpg");
+	border-style: double;
+	border-width: 2px;
+	position: relative;
+	top: 10px;
+	border-radius: 10px; 
+}
+
+.imagebox .image:hover{
+	background-image: url("images/sign.jpg");
+}
+
+.bodypart{
+	width: 1000px;
+	height: 600px;
+	background-color: white;
+	margin-top: 10px;
+	border-radius: 10px;
+	position: relative;
+}
+
+.bodypart .linkspart{
+	width: 290px;
+	height: 580px;
+	background-color: rgb(6,33,63);
+	border-radius: 10px;
+	position: absolute;
+	left: 10px;
+	top: 5px;
+}
+
+.bodypart .linkspart h2{
+	font-family: 'Miltonian Tattoo', cursive;
+	color: white;
+}
+
+.bodypart .linkspart .links{
+	width: 275px;
+	height: 506px;
+	background-color: white;
+	border-radius: 10px;
+}
+
+.bodypart .linkspart .links .linkbox{
+	width: 257px;
+	height: 80px;
+	border-bottom-style:dotted;
+}
+
+.bodypart .linkspart .links .linkbox img{
+	float: left;
+	width: 60px;
+	height: 60px;
+	margin-top: 5px;
+	margin-left: 5px;
+}
+
+.bodypart .contentpart{
+	width: 680px;
+	height: 580px;
+	background-color: rgb(6,33,63);
+	border-radius: 10px;
+	position: absolute;
+	left: 310px;
+	top: 14px;
+}
+
+.bodypart .contentpart .content{
+	width: 665px;
+	height: 552px;
+	background-color: white;
+	border-radius: 10px;
+	margin-top: 5px;
+}
+
+.bodypart .contentpart .content h2{
+	font-family: 'Miltonian Tattoo', cursive;
+	color: rgb(6,33,63);
+	padding-top: 25px;
+}
+
+.bodypart .contentpart .content p{
+	font-family: 'Roboto', sans-serif;
+	text-align: justify;
+	color: black;
+	padding-top: 25px;
+	padding-right: 20px;
+	padding-left: 20px;
+	font-size: 25px;
+}

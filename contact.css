@@ -1,0 +1,171 @@
+.bodypart{
+	width: 1000px;
+	height: 1565px;
+	background-color: white;
+	margin-top: 10px;
+	border-radius: 10px;
+	position: relative;
+}
+
+.bodypart .contentpart{
+	width: 980px;
+	height: 970px;
+	background-color: rgb(6,33,63);
+	border-radius: 10px;
+	position: absolute;
+	left: 10px;
+	top: 14px;
+}
+
+.bodypart .contentpart .content{
+	width: 960px;
+	height: 815px;
+	background-color: white;
+	border-radius: 10px;
+	margin-top: 5px;
+	position: absolute;
+	margin-left: 10px;
+}
+
+.bodypart .contentpart .content h2{
+	font-family: 'Miltonian Tattoo', cursive;
+	color: rgb(6,33,63);
+	padding-top: 25px;
+	margin-left: 50px;
+	float: left;
+}
+
+.bodypart .contentpart .content p{
+	font-family: 'Roboto', sans-serif;
+	clear: both;
+	position: relative;
+	left: 10px;
+	text-align: justify;
+	color: black;
+	padding-top: 25px;
+	padding-right: 20px;
+	font-size: 25px;
+}
+
+.bodypart .contentpart .content #googleMap{
+	height: 500px;
+	width: 950px;
+	border-radius: 20px;
+}
+
+.bodypart .contentpart .content .lower{
+	margin-top: 30px;
+	width: 960px;
+	height: 125px;
+	background-color: white;
+	border-radius: 10px;
+}
+
+.bodypart .addresspart{
+	width: 980px;
+	height: 565px;
+	background-color: rgb(6,33,63);
+	position: absolute;
+	margin-top: 990px;
+	margin-left: 10px;
+	border-radius: 10px;
+}
+
+.bodypart .addresspart .address{
+	width: 395px;
+	height: 550px;
+	background-color: white;
+	position: absolute;
+	margin-top: 7px;
+	margin-left: 10px;
+	border-radius: 10px;
+}
+
+.bodypart .addresspart .address .addressmail{
+	width: 380px;
+	height: 120px;
+	background-color: rgb(6,33,63);
+	border-radius: 10px;
+}
+
+.bodypart .addresspart .address .addressphone{
+	width: 380px;
+	height: 120px;
+	background-color: rgb(6,33,63);
+	border-radius: 10px;
+}
+
+.bodypart .addresspart .address .addressmail h3{
+font-family: 'Miltonian Tattoo', cursive;	color: white;
+	font-size: 25px;
+}
+
+.bodypart .addresspart .address .addressmail p{
+	font-family: 'Roboto', sans-serif;
+	color: white;
+	font-size: 20px;
+}
+
+.bodypart .addresspart .address .addressphone h3{
+	font-family: 'Miltonian Tattoo', cursive;
+	color: white;
+	font-size: 25px;
+}
+
+.bodypart .addresspart .address .addressphone p{
+	font-family: 'Roboto', sans-serif;
+	color: white;
+	font-size: 20px
+}
+
+ .bodypart .formpart{
+ 	width: 555px;
+ 	height: 550px;
+ 	background-color: white;
+	position: absolute;
+	margin-top: 995px;
+	margin-left: 425px;
+	border-radius: 10px;
+ }
+
+.bodypart .formpart h2{
+	font-family: 'Miltonian Tattoo', cursive;
+	margin-top: 30px;
+	color: rgb(6,33,63);
+	font-size: 25px;
+}
+
+.bodypart .formpart fieldset{
+	width: 420px;
+	margin-top: 50px;
+	margin-left: 50px;
+	margin-right: 20px;
+	border-radius: 10px;
+	position: absolute;
+}
+
+.bodypart .formpart fieldset .infofname{
+	float: left;
+	font-size: 20px;
+}
+
+.bodypart .formpart fieldset .infolname{
+	float: right;
+	font-size: 20px;
+}
+
+.bodypart .formpart fieldset .infophone{
+	clear: both;
+	float: left;
+	font-size: 20px;
+}
+
+.bodypart .formpart fieldset .email{
+	float: right;
+	font-size: 20px;
+}
+
+.bodypart .formpart fieldset .comment{
+	clear: both;
+	font-size: 20px;
+}

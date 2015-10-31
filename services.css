@@ -1,0 +1,236 @@
+.bodypart{
+	width: 1000px;
+	height: 2900px;
+	background-color: white;
+	margin-top: 10px;
+	border-radius: 10px;
+	position: relative;
+}
+
+.bodypart .contentpart{
+	width: 980px;
+	height: 2878px;
+	background-color: rgb(6,33,63);
+	border-radius: 10px;
+	position: absolute;
+	left: 10px;
+	top: 14px;
+}
+
+.bodypart .contentpart .content{
+	width: 965px;
+	height: 400px;
+	background-color: white;
+	border-radius: 10px;
+	margin-top: 5px;
+}
+
+.bodypart .contentpart .content h2{
+	font-family: 'Miltonian Tattoo', cursive;
+	color: rgb(6,33,63);
+	padding-top: 25px;
+	margin-left: 50px;
+	float: left;
+}
+
+.bodypart .contentpart .content p{
+	font-family: 'Roboto', sans-serif;
+	clear: both;
+	position: relative;
+	left: 10px;
+	text-align: justify;
+	color: black;
+	padding-top: 25px;
+	padding-right: 20px;
+	font-size: 25px;
+}
+
+.bodypart .contentpart .item1{
+	width: 965px;
+	height: 450px;
+	border-radius: 10px;
+	background-color: white;
+	position: relative;
+	top: 6px;
+}
+
+.bodypart .contentpart .item1 h2{
+	font-family: 'Miltonian Tattoo', cursive;
+	color: rgb(6,33,63);
+	padding-top: 25px;
+	margin-left: 50px;
+	float: left;
+}
+
+.bodypart .contentpart .item1 img{
+	clear: both;
+	float: left;
+	position: relative;
+	left: 10px; 
+	padding-top: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.bodypart .contentpart .item1 p{
+	font-family: 'Roboto', sans-serif;
+	position: relative;
+	left: 10px;
+	text-align: justify;
+	color: black;
+	padding-top: 25px;
+	padding-right: 20px;
+	font-size: 25px;
+}
+
+.bodypart .contentpart .item2{
+	width: 965px;
+	height: 480px;
+	border-radius: 10px;
+	background-color: white;
+	position: relative;
+	top: 12px;
+}
+
+.bodypart .contentpart .item2 h2{
+	font-family: 'Miltonian Tattoo', cursive;
+	color: rgb(6,33,63);
+	padding-top: 25px;
+	margin-left: 50px;
+	float: left;
+}
+
+.bodypart .contentpart .item2 img{
+	clear: both;
+	float: left;
+	position: relative;
+	left: 10px; 
+	padding-top: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.bodypart .contentpart .item2 p{
+	font-family: 'Roboto', sans-serif;
+	position: relative;
+	left: 10px;
+	text-align: justify;
+	color: black;
+	padding-top: 25px;
+	padding-right: 20px;
+	font-size: 25px;
+}
+
+.bodypart .contentpart .item3{
+	width: 965px;
+	height: 480px;
+	border-radius: 10px;
+	background-color: white;
+	position: relative;
+	top: 18px;
+}
+
+.bodypart .contentpart .item3 h2{
+	font-family: 'Miltonian Tattoo', cursive;
+	color: rgb(6,33,63);
+	padding-top: 25px;
+	margin-left: 50px;
+	float: left;
+}
+
+.bodypart .contentpart .item3 img{
+	clear: both;
+	float: left;
+	position: relative;
+	left: 10px; 
+	padding-top: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.bodypart .contentpart .item3 p{
+	font-family: 'Roboto', sans-serif;
+	position: relative;
+	left: 10px;
+	text-align: justify;
+	color: black;
+	padding-top: 25px;
+	padding-right: 20px;
+	font-size: 25px;
+}
+
+.bodypart .contentpart .item4{
+	width: 965px;
+	height: 450px;
+	border-radius: 10px;
+	background-color: white;
+	position: relative;
+	top: 25px;
+}
+
+.bodypart .contentpart .item4 h2{
+	font-family: 'Miltonian Tattoo', cursive;
+	color: rgb(6,33,63);
+	padding-top: 25px;
+	margin-left: 50px;
+	float: left;
+}
+
+.bodypart .contentpart .item4 img{
+	clear: both;
+	float: left;
+	position: relative;
+	left: 10px; 
+	padding-top: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.bodypart .contentpart .item4 p{
+	font-family: 'Roboto', sans-serif;
+	position: relative;
+	left: 10px;
+	text-align: justify;
+	color: black;
+	padding-top: 25px;
+	padding-right: 20px;
+	font-size: 25px;
+}
+
+.bodypart .contentpart .item5{
+	width: 965px;
+	height: 570px;
+	border-radius: 10px;
+	background-color: white;
+	position: relative;
+	top: 30px;
+}
+
+.bodypart .contentpart .item5 h2{
+	font-family: 'Miltonian Tattoo', cursive;
+	color: rgb(6,33,63);
+	padding-top: 25px;
+	margin-left: 50px;
+	float: left;
+}
+
+.bodypart .contentpart .item5 img{
+	clear: both;
+	float: left;
+	position: relative;
+	left: 10px; 
+	padding-top: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.bodypart .contentpart .item5 p{
+	font-family: 'Roboto', sans-serif;
+	position: relative;
+	left: 10px;
+	text-align: justify;
+	color: black;
+	padding-top: 25px;
+	padding-right: 20px;
+	font-size: 25px;
+}

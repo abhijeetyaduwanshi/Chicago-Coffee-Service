@@ -4,7 +4,7 @@ Author: Abhijeet Yaduwanshi
 
 Project for: Internet Technologies and Web Design course.
 
-Skills used: HTML- 5 and external CSS.
+Skills used: HTML- 5, external CSS and Google maps API.
 
 
 This is a website for Chicago coffee service to showcase their products and services to prospective vendors.
